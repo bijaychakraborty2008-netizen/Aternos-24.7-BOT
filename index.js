@@ -7,7 +7,7 @@ const path = require('path');
 const mc = require('minecraft-protocol');
 const serverHost = 'DOOMS_DAY_REBORN.aternos.me';
 const serverPort = 59173;
-const botUsername = '247_Monitor';
+const botUsername = 'Meya_18';
 const reconnectInterval = 1 * 40 * 1000;
 
 let bot = null; // Initialize the bot as null
